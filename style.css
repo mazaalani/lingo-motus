@@ -502,7 +502,7 @@ body {
 [data-lvl].unlockedlvl .lvlRank .rank::after {
   content: "";
   display: block;
-  background: url(../img/trophy.png) no-repeat;
+  background: url(./img/trophy.png) no-repeat;
   width: 42px;
   height: 42px;
   position: absolute;
