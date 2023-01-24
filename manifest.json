@@ -1,0 +1,24 @@
+{
+  "name": "Lingo Motus",
+  "short_name": "LingoMotus",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "Background_color": "#FFE9D2",
+  "theme_color": "#FFE1C4",
+  "orientation": "portrait-primary",
+  "description": "Word guess game",
+  "icons": [
+    {
+      "src": "../img/test.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "../img/test.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ]
+}
