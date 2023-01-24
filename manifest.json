@@ -16,7 +16,7 @@
   ],
   "screenshots": [
     {
-      "src": "../img/test.png",
+      "src": "./img/test.png",
       "type": "image/png",
       "sizes": "256x256"
     }
