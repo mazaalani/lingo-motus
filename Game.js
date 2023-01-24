@@ -1,5 +1,5 @@
-import { fr } from "../dictionnaires/dictionnaireFr.js";
-import { en } from "../dictionnaires/dictionnaireEn.js";
+import { fr } from "./dictionnaires/dictionnaireFr.js";
+import { en } from "./dictionnaires/dictionnaireEn.js";
 //en fr de 5 a 20 lettres et en eng de 4 a 15 mais pour ce jeu max 10
 
 export default class Game {
